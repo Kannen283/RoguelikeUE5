@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Grabson_PC/Documents/Unreal Projects/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset",
+				"C:/Users/Grabson_PC/Documents/Unreal Projects/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset",
+				"C:/Users/Grabson_PC/Documents/Unreal Projects/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset"
+			]
+		}
+	]
+}
